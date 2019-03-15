@@ -1,0 +1,4 @@
+lalala;MD;12345;mastercard
+lalala;MD;12345;mastercard
+Sevinch;MD;12345;visa
+Sevinch;MA;12345;mastercard
